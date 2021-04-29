@@ -1,0 +1,612 @@
+[
+    {
+        "name": "Hạt Hạnh Nhân Sống DK Harvest Dùng làm Sữa Hạt",
+        "discount": 84000,
+        "discount_rate": 19,
+        "rating_average": 4.8,
+        "review_count": 128,
+        "price": 356000,
+        "list_price": 440000,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "Thùng 24 Gói Snack Mì Nà Ní 2 hương vị (52g)",
+        "discount": 10000,
+        "discount_rate": 7,
+        "rating_average": 4.6,
+        "review_count": 16,
+        "price": 125000,
+        "list_price": 135000,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "1Kg Cơm Cháy Lắc Khô Gà Giòn Ngon Hiệu SK FOOD",
+        "discount": 65000,
+        "discount_rate": 43,
+        "rating_average": 4.3,
+        "review_count": 96,
+        "price": 85000,
+        "list_price": 150000,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "Bộ 2 hộp Bột Baking Soda Đa Công Dụng 454g - Arm & Hammer",
+        "discount": 30100,
+        "discount_rate": 38,
+        "rating_average": 4.7,
+        "review_count": 223,
+        "price": 49900,
+        "list_price": 80000,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "Hạt Điều Rang Không Muối Lafooco 450g",
+        "discount": 20000,
+        "discount_rate": 10,
+        "rating_average": 0,
+        "review_count": 0,
+        "price": 180000,
+        "list_price": 200000,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "Nước Yến Sào win'sNest Đường Phèn ( 6 Lọ * 70 ml / Hộp) giúp bồi bổ sức khỏe tăng cường sức đề kháng, thích hợp cho mọi đối tượng và trẻ em từ 1 tuổi trở lên",
+        "discount": 136000,
+        "discount_rate": 51,
+        "rating_average": 4.7,
+        "review_count": 302,
+        "price": 133000,
+        "list_price": 269000,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "Hạt Đậu Gà Chickpeas DK HARVEST nhập khẩu Nam Mỹ/ Ấn Độ 700g",
+        "discount": 59000,
+        "discount_rate": 45,
+        "rating_average": 4.7,
+        "review_count": 319,
+        "price": 71000,
+        "list_price": 130000,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "Lương Khô BB702 - Công Ty Cổ Phần 22 (700g)",
+        "discount": 0,
+        "discount_rate": 0,
+        "rating_average": 4.5,
+        "review_count": 197,
+        "price": 70000,
+        "list_price": 70000,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "Nui nơ Farfalle Pasta La Sicilia gói 500gr ",
+        "discount": 5000,
+        "discount_rate": 8,
+        "rating_average": 5,
+        "review_count": 1,
+        "price": 55000,
+        "list_price": 60000,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "Bún gạo lứt ăn kiêng GUfoods - Giảm cân, Thực dưỡng, Eat clean",
+        "discount": 15100,
+        "discount_rate": 43,
+        "rating_average": 4.8,
+        "review_count": 35,
+        "price": 19900,
+        "list_price": 35000,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "TÁO ĐỎ HÀN QUỐC 1Kg, cao cấp, bổ dưỡng, tặng túi đựng hộp quà",
+        "discount": 71000,
+        "discount_rate": 34,
+        "rating_average": 4.5,
+        "review_count": 25,
+        "price": 139000,
+        "list_price": 210000,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "Hạt Nêm Knorr Từ Thịt Thăn, Xương Ống Và Tủy Bổ Sung Vitamin A (900g) - 32010220",
+        "discount": 13000,
+        "discount_rate": 18,
+        "rating_average": 4.7,
+        "review_count": 28,
+        "price": 61000,
+        "list_price": 74000,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "Đậu gà hữu cơ 500g - Reformhaus",
+        "discount": 96000,
+        "discount_rate": 49,
+        "rating_average": 4.8,
+        "review_count": 13,
+        "price": 99000,
+        "list_price": 195000,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "Combo 2 Gói Yến mạch Hafer Flocken (500g x 2 gói) - Deutschland (Dạng hạt cán vỡ)",
+        "discount": 109000,
+        "discount_rate": 60,
+        "rating_average": 4.8,
+        "review_count": 58,
+        "price": 73000,
+        "list_price": 182000,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "Mì 3 miền gold tôm chua cay đặc biệt 75g x 30 gói",
+        "discount": 40000,
+        "discount_rate": 29,
+        "rating_average": 5,
+        "review_count": 36,
+        "price": 100000,
+        "list_price": 140000,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "Thùng Mì Gói Hảo Hảo Tôm Xào Chua Ngọt (30 Gói/Thùng)",
+        "discount": 17000,
+        "discount_rate": 14,
+        "rating_average": 5,
+        "review_count": 23,
+        "price": 108000,
+        "list_price": 125000,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "Hạt Dẻ Cười DK HARVEST Nhập Khẩu USA, Giàu chất chống oxy hóa - 250g, 450g",
+        "discount": 10000,
+        "discount_rate": 6,
+        "rating_average": 4.8,
+        "review_count": 70,
+        "price": 170000,
+        "list_price": 180000,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "Chà Là Nguyên Cành DK Harvest Nhập khẩu Tunisia",
+        "discount": 33000,
+        "discount_rate": 17,
+        "rating_average": 4.7,
+        "review_count": 180,
+        "price": 166000,
+        "list_price": 199000,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "Gạo Hạt Ngọc Trời Thiên Long Túi 5Kg - Gạo thơm đặc sản",
+        "discount": 26000,
+        "discount_rate": 21,
+        "rating_average": 5,
+        "review_count": 41,
+        "price": 99000,
+        "list_price": 125000,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "Hạt điều rang muối nhân trắng bể nửa sviet 500g",
+        "discount": 60000,
+        "discount_rate": 44,
+        "rating_average": 4.5,
+        "review_count": 216,
+        "price": 76000,
+        "list_price": 136000,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "Nhân Hạt Óc Chó Sống DK Harvest Dùng làm Sữa 1000g",
+        "discount": 356000,
+        "discount_rate": 49,
+        "rating_average": 4.7,
+        "review_count": 91,
+        "price": 369000,
+        "list_price": 725000,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "Hạt Macca Úc nứt vỏ Smile Nuts (215g - 500g) | 100% nhập khẩu từ Úc, giòn béo, thơm ngon",
+        "discount": 39000,
+        "discount_rate": 33,
+        "rating_average": 4.7,
+        "review_count": 94,
+        "price": 80000,
+        "list_price": 119000,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "Sữa đặc có đường Brothers 390gr",
+        "discount": 0,
+        "discount_rate": 0,
+        "rating_average": 5,
+        "review_count": 38,
+        "price": 17000,
+        "list_price": 17000,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "Gạo lứt đen hữu cơ cao cấp/ECOBA Huyền Mễ 1kg - Thơm ngon dẻo ngọt - Thanh lọc cơ thể",
+        "discount": 8100,
+        "discount_rate": 8,
+        "rating_average": 4.7,
+        "review_count": 137,
+        "price": 99000,
+        "list_price": 107100,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "Bột làm kem Vani (Vani Ice Cream Powder) La Sicilia (Ý) - 1.5 kg",
+        "discount": 30000,
+        "discount_rate": 5,
+        "rating_average": 5,
+        "review_count": 1,
+        "price": 580000,
+        "list_price": 610000,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "Yến mạch Quaker Oats nguyên chất 100% nhập khẩu từ Mỹ - Chính Hãng",
+        "discount": 128000,
+        "discount_rate": 44,
+        "rating_average": 4.8,
+        "review_count": 61,
+        "price": 161000,
+        "list_price": 289000,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "Lốc 5 Gói Mì Khô Gà Cay Samyang (140G / Gói)",
+        "discount": 19100,
+        "discount_rate": 12,
+        "rating_average": 4.5,
+        "review_count": 2,
+        "price": 140900,
+        "list_price": 160000,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "Gạo lứt ăn kiêng GUfoods (1kg) - Hỗ trợ Giảm cân - Thực dưỡng - Eat clean (có 2 lựa chọn: Lứt đỏ + Lứt tím than)",
+        "discount": 62000,
+        "discount_rate": 65,
+        "rating_average": 4.8,
+        "review_count": 25,
+        "price": 33000,
+        "list_price": 95000,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "Nhân Hạt Óc Chó DK Harvest - Nhập khẩu USA/Chile - 100g, 200g, 400g",
+        "discount": 76000,
+        "discount_rate": 28,
+        "rating_average": 4.5,
+        "review_count": 372,
+        "price": 199000,
+        "list_price": 275000,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "Gạo lứt đỏ hữu cơ cao cấp - ECOBA Huyết Rồng 1kg - Cơm mềm dễ ăn - Gạo lứt ăn kiêng",
+        "discount": 12100,
+        "discount_rate": 11,
+        "rating_average": 4.5,
+        "review_count": 119,
+        "price": 95000,
+        "list_price": 107100,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "1Kg Nhân Hạt Bí Xanh Nhập Khẩu Cao Cấp Thương Hiệu SK FOOD ",
+        "discount": 115000,
+        "discount_rate": 46,
+        "rating_average": 4.7,
+        "review_count": 29,
+        "price": 135000,
+        "list_price": 250000,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "Túi 16 Gói Bột Ngũ Cốc Nestle Nesvita Ít Đường (25g)",
+        "discount": 2000,
+        "discount_rate": 3,
+        "rating_average": 4.8,
+        "review_count": 156,
+        "price": 64000,
+        "list_price": 66000,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "HẠT MẮC CA ÚC ĐÃ TÁCH VỎ HŨ 500G ( NHÂN MACCA ÚC)",
+        "discount": 51000,
+        "discount_rate": 11,
+        "rating_average": 4.7,
+        "review_count": 67,
+        "price": 399000,
+        "list_price": 450000,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "Thùng 24 Gói Miến Phú Hương Hương Vị Lẩu Thái Tôm Acecook",
+        "discount": 34000,
+        "discount_rate": 14,
+        "rating_average": 5,
+        "review_count": 7,
+        "price": 208000,
+        "list_price": 242000,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "500 gram Hạt Hạnh Nhân TETE - Đã Rang",
+        "discount": 74000,
+        "discount_rate": 37,
+        "rating_average": 4.6,
+        "review_count": 79,
+        "price": 125000,
+        "list_price": 199000,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "HẠT HẠNH NHÂN RANG MỘC NUNUTS (1 HŨ 500G )",
+        "discount": 61000,
+        "discount_rate": 24,
+        "rating_average": 4.7,
+        "review_count": 49,
+        "price": 189000,
+        "list_price": 250000,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "MIX 5 HẠT DINH DƯỠNG NUNUTS MÃ NN3 HŨ 500G",
+        "discount": 50000,
+        "discount_rate": 17,
+        "rating_average": 4.7,
+        "review_count": 45,
+        "price": 250000,
+        "list_price": 300000,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "Gạo Lứt Đỏ Túi 1Kg - Gạo Ngọc Đỏ Ông Thọ - Gạo lứt tốt cho sức khỏe, ăn kiêng, tiều đường, giảm cân, cao huyết áp",
+        "discount": 20000,
+        "discount_rate": 34,
+        "rating_average": 4.6,
+        "review_count": 87,
+        "price": 38000,
+        "list_price": 58000,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "Combo Bánh gạo Hàn Quốc 500g kèm sốt nấu Tokbokki 150g",
+        "discount": 20000,
+        "discount_rate": 20,
+        "rating_average": 4.7,
+        "review_count": 49,
+        "price": 80000,
+        "list_price": 100000,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "Túi Hạt Chia Đen Hữu Cơ Mỹ REAL FOOD STORE (1kg)",
+        "discount": 82000,
+        "discount_rate": 41,
+        "rating_average": 4.7,
+        "review_count": 250,
+        "price": 119000,
+        "list_price": 201000,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "Sốt nấm cục – Truffle Sauce La Sicilia (Italia) hũ 500g",
+        "discount": 10000,
+        "discount_rate": 2,
+        "rating_average": 0,
+        "review_count": 0,
+        "price": 510000,
+        "list_price": 520000,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "Bánh Gạo Tteokbokki Kèm Chả Cá Hàn Quốc Fish Cake Cực Ngon 4 vị (143g)",
+        "discount": 556,
+        "discount_rate": 1,
+        "rating_average": 4.1,
+        "review_count": 14,
+        "price": 54444,
+        "list_price": 55000,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "BẮP HẠT NỔ POPCORN 400G",
+        "discount": 31000,
+        "discount_rate": 52,
+        "rating_average": 4.5,
+        "review_count": 178,
+        "price": 29000,
+        "list_price": 60000,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "Nho Khô 3 Màu DK Harvest nhập khẩu Chile  - Thơm ngon, vị ngọt tự nhiên",
+        "discount": 20000,
+        "discount_rate": 29,
+        "rating_average": 4.6,
+        "review_count": 270,
+        "price": 49000,
+        "list_price": 69000,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "1KG HẠT ĐIỀU NGUYÊN RANG TỎI ỚT LOẠI CAO CẤP THƯƠNG HIỆU SK FOOD",
+        "discount": 75000,
+        "discount_rate": 50,
+        "rating_average": 3.9,
+        "review_count": 47,
+        "price": 75000,
+        "list_price": 150000,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "Sữa Đặc Chế Brothers Trung Nguyên - Dành cho Pha Cà Phê( Lon 390gam)",
+        "discount": 7000,
+        "discount_rate": 28,
+        "rating_average": 1,
+        "review_count": 1,
+        "price": 18000,
+        "list_price": 25000,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "Kem Sữa Đặc Đặc Ngôi Sao Phương Nam Xanh Lá - Hộp Giấy 380G",
+        "discount": 1000,
+        "discount_rate": 6,
+        "rating_average": 4.8,
+        "review_count": 72,
+        "price": 17000,
+        "list_price": 18000,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "Thùng 10 Gói Miến Phú Hương Yến Tiệc",
+        "discount": 48000,
+        "discount_rate": 15,
+        "rating_average": 5,
+        "review_count": 6,
+        "price": 281000,
+        "list_price": 329000,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "(1KG) Hạt Điều Rang Muối Sạch Vỏ Chất Lượng Hiệu SK FOOD",
+        "discount": 121000,
+        "discount_rate": 48,
+        "rating_average": 4,
+        "review_count": 21,
+        "price": 129000,
+        "list_price": 250000,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "Cơm cháy khô gà loại 1 ( Giòn ngon - đậm vị ) thương hiệu Nàng Khô - 1 Kí ( 2 Hũ 530 gram )",
+        "discount": 205000,
+        "discount_rate": 68,
+        "rating_average": 4.8,
+        "review_count": 112,
+        "price": 95000,
+        "list_price": 300000,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "HẠT HẠNH NHÂN NGUYÊN VỊ 500G - ĐÃ RANG",
+        "discount": 180000,
+        "discount_rate": 56,
+        "rating_average": 4.6,
+        "review_count": 340,
+        "price": 140000,
+        "list_price": 320000,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "500G MIX 3 HẠT DINH DƯỠNG ĐÃ TÁCH VỎ (MACCA, ÓC CHÓ, HẠNH NHÂN) ĂN LIỀN",
+        "discount": 165000,
+        "discount_rate": 47,
+        "rating_average": 4.7,
+        "review_count": 72,
+        "price": 185000,
+        "list_price": 350000,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "Túi Hạt Bắp Nổ BARN làm bỏng ngô REAL FOOD STORE ( Nhiều lựa chọn)",
+        "discount": 8000,
+        "discount_rate": 17,
+        "rating_average": 4.5,
+        "review_count": 45,
+        "price": 38000,
+        "list_price": 46000,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "Hạt lanh nâu DK HARVEST (nhập khẩu Canada) - 500g",
+        "discount": 125000,
+        "discount_rate": 63,
+        "rating_average": 4.7,
+        "review_count": 142,
+        "price": 75000,
+        "list_price": 200000,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "Lương Khô Bay - Công Ty Cổ Phần 22 (1000g)",
+        "discount": 0,
+        "discount_rate": 0,
+        "rating_average": 4.5,
+        "review_count": 193,
+        "price": 105000,
+        "list_price": 105000,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "Lá Rong Biển Khô Daesang 200g Dùng Nấu Canh Rong Biển - Nhập Khẩu Hàn Quốc",
+        "discount": 72100,
+        "discount_rate": 35,
+        "rating_average": 4.8,
+        "review_count": 32,
+        "price": 135000,
+        "list_price": 207100,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "Nước Yến Sào win'sNest Kids (70ml)",
+        "discount": 25000,
+        "discount_rate": 56,
+        "rating_average": 4.7,
+        "review_count": 78,
+        "price": 20000,
+        "list_price": 45000,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "Ngũ cốc hoa quả Calbee Furugura Nhật Bản - Nhập khẩu chính hãng",
+        "discount": 182100,
+        "discount_rate": 52,
+        "rating_average": 4.3,
+        "review_count": 9,
+        "price": 167900,
+        "list_price": 350000,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "Hạt Điểu Rang Tỏi Ớt Giòn Ngon Hiệu SK FOOD - Hũ 250G",
+        "discount": 30000,
+        "discount_rate": 51,
+        "rating_average": 4.8,
+        "review_count": 16,
+        "price": 29000,
+        "list_price": 59000,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "Gạo Lứt Tím Than Túi 1Kg - Gạo Ông Thọ - Thơm mềm dẻo, tốt cho sức khỏe",
+        "discount": 20000,
+        "discount_rate": 34,
+        "rating_average": 4.6,
+        "review_count": 99,
+        "price": 38000,
+        "list_price": 58000,
+        "category": "Thực phẩm"
+    },
+    {
+        "name": "Túi Yến Mạch Canada 100G - Thương hiệu Real Food Store",
+        "discount": 8000,
+        "discount_rate": 53,
+        "rating_average": 4.8,
+        "review_count": 48,
+        "price": 7000,
+        "list_price": 15000,
+        "category": "Thực phẩm"
+    }
+]

@@ -17,7 +17,7 @@ def writeToCSV_Overriding() :
     '''
     with open('tiki.csv', mode='w',encoding='utf-8') as employee_file:
         employee_writer = csv.writer(employee_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
-        employee_writer.writerow(['ID', 'Name Product', 'Price (VND) ' , 'Total Review', 'Discount(%)'])
+        employee_writer.writerow(['ID', 'Name Product', 'Price(VND)' , 'Total Review', 'Discount(%)'])
         k = 0 
         for i in new_data : 
             product = i['product'].replace('"','')
